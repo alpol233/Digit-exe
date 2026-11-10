@@ -1,4 +1,4 @@
-# Digit recognizer v3
+# Digit bot
 
 Свёрточная сеть для цифр 0–9 (28×28, grayscale).
 
